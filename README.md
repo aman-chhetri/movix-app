@@ -1,4 +1,4 @@
-# <img  align="center" width= 50px  src="https://raw.githubusercontent.com/aniruddha-gade/Movix-app/main/src/assets/movix-logo.png">  Movix App
+# <img  align="center" width= 50px  src="https://raw.githubusercontent.com/aniruddha-gade/Movix-app/main/src/assets/movix-logo.png">  Movix App - Your Gateway to Cinematic Excellence!
 
 **Movix** 🍿 is a movie information web app that makes use of the TMDB API (The Movie Database). Developed using React, Redux, and Vite, Movix provides users with extensive information about movies, encompassing plot summaries, cast and crew details, ratings, and more.
 
@@ -54,3 +54,13 @@ It is publicly open for any contribution. Bugfixes, new features, and extra modu
 
 - To contribute to code: Fork the repo, push your changes to your fork, and submit a pull request.
 - To report a bug: If something does not work, please report it using [GitHub Issues](https://github.com/aman-chhetri/movix-app/issues).
+
+### **Contact** 📩
+
+If you have any questions or feedback, feel free to reach out 🙂
+
+- Email: chhetryaman3@gmail.com
+- LinkedIn : [@amankshetri](https://www.linkedin.com/in/amankshetri/)
+- Twitter : [@iamamanchhetri](https://twitter.com/iamamanchhetri)
+
+© 2023 Aman Kshetri 👨‍💻
