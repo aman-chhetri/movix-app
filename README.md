@@ -1,4 +1,6 @@
-# <img  align="center" width= 50px  src="https://raw.githubusercontent.com/aniruddha-gade/Movix-app/main/src/assets/movix-logo.png">  Movix App - Your Personal Cinematic Encyclopedia!
+# <img  align="center" width= 50px  src="./screenshots/movix-logo.png">  Movix App - Your Personal Cinematic Encyclopedia!
+
+<p align="center"><img src="./screenshots/banner_collage.png" alt="Movix Banner Collage"></p>
 
 **Movix** 🍿 is a movie information web app that makes use of the TMDB API (The Movie Database). Developed using React, Redux, and Vite, Movix provides users with extensive information about movies, encompassing plot summaries, cast and crew details, ratings, and more.
 
