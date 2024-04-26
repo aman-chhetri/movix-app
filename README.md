@@ -48,6 +48,38 @@ npm install
 npm run dev
 ```
 
+## Screenshots 🖼️
+
+#### Homepage 
+![HomePage](./screenshots/home.png)
+
+#### Trending Movies
+![Trending Movies](./screenshots/trending.png)
+
+#### What's Popular
+![What's Popular](./screenshots/popular.png)
+
+#### Top Rated Movies
+![Top Rated Movies](./screenshots/top_rated.png)
+
+#### Movie Details Page
+![Movie Details](./screenshots/movie_details.png)
+
+#### Movie Cast & Crew
+![Movie Cast](./screenshots/cast.png)
+
+#### Movie Official Videos
+![Movie Videos](./screenshots/official_videos.png)
+
+#### Explore Movies
+![Explore Movies](./screenshots/explore_movies.png)
+
+#### Explore TV Shows
+![Explore TV Shows](./screenshots/explore_tv.png)
+
+#### Footer
+![Footer](./screenshots/footer.png)
+
 ### **Feedback and Contribution** 🤝
 
 It is publicly open for any contribution. Bugfixes, new features, and extra modules are welcome.
